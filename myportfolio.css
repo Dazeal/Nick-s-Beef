@@ -1,0 +1,54 @@
+body{
+background-color: burlywood;
+font-family: sans-serif;
+margin-left: 80px;
+margin-bottom: 10px;
+}
+.nick{
+color: solid black;
+font-size: 30px;
+padding: 1px;
+font-weight: bolder;
+}
+#topbar{
+display: inline;
+background-color: #AB2C23;
+color: white;
+padding: 2px;
+
+}
+.home{
+padding: 50px;
+}
+.about{
+padding: 50px;
+}
+.contact{
+padding: 50px;
+}
+.product{
+padding: 50px;
+}
+img{
+height: 250px;
+width: 200px;
+}
+.aboutus{
+position: absolute;
+left: 290px;
+bottom: 195px;
+}
+.ref{
+color: darkred;
+text-decoration: none;
+}
+.section1{
+  width: 90%;
+  height: 15%;
+  margin: 1%;
+  display: inline-block;
+}
+#top{
+margin-bottom: 1px;
+}
+
